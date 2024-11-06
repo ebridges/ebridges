@@ -20,7 +20,7 @@ Here are a couple open-source projects I’ve worked on:
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ebridges&show_icons=true&theme=radical)
 
 ---
 
