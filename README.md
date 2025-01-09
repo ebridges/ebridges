@@ -9,7 +9,7 @@ I'm a passionate product software engineering leader and open-source contributor
 
 Here are a couple open-source projects I’ve worked on:
 
-- **[Image recognizer](https://github.com/ebridges/minimal-neural-network)**: This project provided an opportunity to learn how a neural network is trained. Implemented in C with no external dependencies, it builds a network and trains it using forward & backward propagation, and then does prediction using forward propagation.  It also provides a way to export the model to be used in a graphical UI to use it.
+- **[AI/ML image recognizer](https://github.com/ebridges/minimal-neural-network)**: This uses a neural network that I implemented in C with no external dependencies. It trains a network using forward & backward propagation, and then does prediction using forward propagation.  It also provides a graphical UI to use it, using Javascript & React.
 
 - **[elektrum](https://github.com/ebridges/elektrum)**: This is a media management project -- think: your own Google Photos -- implemented in Python & Javascript. Dynamically organizes photos by date, etc. This includes automated AWS infrastructure using Ansible.
   - Related projects
