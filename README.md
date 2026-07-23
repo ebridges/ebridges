@@ -1,30 +1,61 @@
 
+<img src="assets/headshot-circle.png" align="right" width="150" alt="Edward Bridges">
+
 # Edward Bridges
 
-Engineering leader with 20+ years building and running product engineering organizations — from hedge fund administration systems to healthcare data platforms to consumer software used by tens of millions of people. I work across the full range, from IC-depth systems work to leading orgs of 50+, across fintech, healthtech, media, and proptech.
+> Engineering leader with 20+ years building and running product engineering organizations — from hedge fund administration systems to healthcare data platforms to consumer software used by tens of millions of people. I work across the full range, from IC-depth systems work to leading orgs of 50+, across fintech, healthtech, media, and proptech.
 
 Full work history → [LinkedIn](https://www.linkedin.com/in/eqbridges)
 
+[Scope and impact](#scope-and-impact) · [Open source](#open-source) · [Currently](#currently)
+
 ---
 
-## Scope & impact
+## Scope and impact
 
-**Squarespace** · Consumer / media software
+| Company | Industry | Highlight |
+|---|---|---|
+| Squarespace | Consumer / media software | Grew mobile org 2 → 50+ engineers; led Unfold acquisition integration & BioSites launch (2021 Super Bowl ad, cited in S-1) |
+| GreenLite | Proptech / construction tech | Built agentic AI plan-review system (15 → 300+ reviews/mo); led Terraform/IaC migration; grew org 3 → 11 |
+| Aetion | Healthtech | Led core platform team; Spark/Databricks migration cut response time 80% on 200M+ patient datasets |
+| Citco Fund Services | Fintech | Re-architected derivatives pricing & risk/scenario engine |
+
+<details>
+<summary><b>Squarespace</b> · Consumer / media software</summary>
+<br>
+
 - Grew a mobile engineering org from 2 people to 50+, globally distributed, shipping 10+ apps
 - Led integration of the Unfold acquisition (5-6M MAU), scaling that team from 7 to 20+ engineers and shipping BioSites — featured in Squarespace's 2021 Super Bowl ad and cited 25x in the company's S-1
 - Led the org's response to an App Store-wide ban over in-app-purchase compliance, shipping a compliant rebuild across all three apps within a year with zero team attrition
 
-**GreenLite** · Proptech / construction tech
+</details>
+
+<details>
+<summary><b>GreenLite</b> · Proptech / construction tech</summary>
+<br>
+
 - Designed and built an agentic AI system — OCR, vector search, and a knowledge graph — for automated construction plan-set review, taking plan-review throughput from ~15/month to 300+/month
 - Led the migration to infrastructure-as-code (Terraform) as part of bringing the company into SOC2 Type 2 compliance, alongside a pen test and SOC observation period
 - Grew the org from an inherited 3-person full-stack team to ~11 people (part of a 17-person product/eng/design team), standing up new AI, data, and SRE functions while mentoring the original engineers into more senior roles
 
-**Aetion** · Healthtech
+</details>
+
+<details>
+<summary><b>Aetion</b> · Healthtech</summary>
+<br>
+
 - Led the team behind the core business logic of a regulatory-grade real-world-evidence platform used by pharma and payers, operating on datasets up to 50TB / 200M+ patients
 - Directed the migration off a proprietary datastore onto Spark/Databricks, cutting application response time by 80%
 
-**Citco Fund Services** · Fintech
+</details>
+
+<details>
+<summary><b>Citco Fund Services</b> · Fintech</summary>
+<br>
+
 - Early-career systems work: re-architected a hedge fund administration platform's accounting, derivatives pricing, and risk/scenario-analysis services onto a .NET/Java client-server system
+
+</details>
 
 ---
 
