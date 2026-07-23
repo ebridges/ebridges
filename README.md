@@ -1,61 +1,45 @@
 
-# Hi there! 👋 I'm Ed
+# Edward Bridges
 
-I'm a passionate product software engineering leader and open-source contributor based in Williamsburg, Brooklyn, NYC. With over 30 years of experience, I've built teams, led projects, and contributed to software solutions across diverse industries like finance, media, and healthtech.
+Engineering leader with 20+ years building and running product engineering organizations — from hedge fund administration systems to healthcare data platforms to consumer software used by tens of millions of people. I work across the full range, from IC-depth systems work to leading orgs of 50+, across fintech, healthtech, media, and proptech.
 
----
-
-## 🔧 Open Source Projects
-
-Here are a couple open-source projects I’ve worked on:
-
-- **[AI/ML image recognizer](https://github.com/ebridges/minimal-neural-network)**: This uses a neural network that I implemented in C with no external dependencies. It trains a network using forward & backward propagation, and then does prediction using forward propagation.  It also provides a graphical UI to use it, using Javascript & React.
-
-- **[elektrum](https://github.com/ebridges/elektrum)**: This is a media management project -- think: your own Google Photos -- implemented in Python & Javascript. Dynamically organizes photos by date, etc. This includes automated AWS infrastructure using Ansible.
-  - Related projects
-      - **[lgw](https://github.com/ebridges/lgw)**: Simplifies deploying an application as an AWS Lambda behind an API Gateway.
-      - **[metadata-processor](https://github.com/ebridges/metadata-processor)**: Processes images to extract metadata for storage & searching.
-      - **[thumbnailer](https://github.com/ebridges/thumbnailer)**: Efficiently scales images into thumbnails.
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ebridges&show_icons=true&theme=radical)
+Full work history → [LinkedIn](https://www.linkedin.com/in/eqbridges)
 
 ---
 
-## 🚀 Skills and Tools
+## Scope & impact
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
+**Consumer / media software — Squarespace**
+Grew a mobile engineering org from 2 people to 50+, globally distributed, shipping 10+ apps. Led integration of the Unfold acquisition (5-6M MAU), scaling that team from 7 to 20+ engineers and shipping BioSites — featured in Squarespace's 2021 Super Bowl ad and cited 25x in the company's S-1. Also led the org's response to an App Store-wide ban over in-app-purchase compliance, shipping a compliant rebuild across all three apps within a year with zero team attrition.
 
----
+**Proptech / construction tech — GreenLite**
+Designed and built an agentic AI system — OCR, vector search, and a knowledge graph — for automated construction plan-set review at a Series A → B construction-permitting startup, taking plan-review throughput from ~15/month to 300+/month. Led the migration to infrastructure-as-code (Terraform) as part of bringing the company into SOC2 Type 2 compliance, alongside a pen test and SOC observation period. Did this while growing the org — inherited a 3-person full-stack team and built it into ~11 people (part of a 17-person product/eng/design team), standing up new AI, data, and SRE functions and mentoring the original engineers into more senior roles.
 
+**Healthtech — Aetion**
+Led the team behind the core business logic of a regulatory-grade real-world-evidence platform used by pharma and payers, operating on datasets up to 50TB / 200M+ patients. Directed the migration off a proprietary datastore onto Spark/Databricks, cutting application response time by 80%.
 
-## 🌱 I’m currently learning & improving ...
-
-- Generative AI/ML/LLM
-- Data analytics
-- Javascript
+**Fintech — Citco Fund Services**
+Early-career systems work: re-architected a hedge fund administration platform's accounting, derivatives pricing and risk/scenario-analysis services onto a .NET/Java client-server system.
 
 ---
 
-## 🤝 Connect with Me
+## Open source
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/eqbridges)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/ebridges)
+- **[Wakil: a knowledge base assistant](https://github.com/ebridges/)** - a local-first Python CLI agent for working with a personal Markdown knowledge base (GBrain / Obsidian style): ingest, search, connect, revise, and reason over Markdown notes.
+- **[minimal-neural-network](https://github.com/ebridges/minimal-neural-network)** — a neural network implemented in C with no external dependencies (forward/backward propagation), with a JS/React UI for using it.
+- **[elektrum](https://github.com/ebridges/elektrum)** — a self-hosted alternative to Google Photos (Python/JS), with automated AWS infrastructure via Ansible.
+  - [lgw](https://github.com/ebridges/lgw) — deploy an app as a Lambda behind API Gateway
+  - [metadata-processor](https://github.com/ebridges/metadata-processor) — image metadata extraction for storage/search
+  - [thumbnailer](https://github.com/ebridges/thumbnailer) — efficient image thumbnailing
 
 ---
 
-## 💬 Ask me about ...
+## Currently
 
-- My kids
-- Woodworking
-- Photography
-- Music
+Deep in applied agentic AI/LLM engineering — production systems, not demos — plus data analytics.
 
-Thanks for stopping by! 😊 Feel free to reach out or connect if you'd like to collaborate or chat about open-source projects, engineering, or tech in general!
+---
+
+Outside of engineering, I build furniture with hand tools (workbenches, dovetail joinery, and inspired by George Nakashima), lean toward Jazz, Classical, and New York's late-70s art-rock and post-punk sounds, and live in Williamsburg, Brooklyn.
+
+[LinkedIn](https://www.linkedin.com/in/eqbridges) · [GitHub](https://github.com/ebridges)
