@@ -19,6 +19,8 @@ Full work history → [LinkedIn](https://www.linkedin.com/in/eqbridges)
 | Aetion | Led core platform team; Spark/Databricks migration cut response time 80% on 200M+ patient datasets |
 | Citco Fund Services | Re-architected derivatives pricing & risk/scenario engine |
 
+### Accomplishments
+
 <details>
 <summary><b>Squarespace</b> · Consumer / media software</summary>
 <br>
