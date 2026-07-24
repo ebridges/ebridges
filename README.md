@@ -1,6 +1,6 @@
 # Edward Bridges
 
-<img src="assets/headshot-circle.png" align="right" width="150" alt="Edward Bridges">
+<img src="assets/avatar.png" align="right" width="150" alt="Edward Bridges">
 
 > Engineering leader with 20+ years building and running product engineering organizations — from hedge fund administration systems to healthcare data platforms to consumer software used by tens of millions of people. I work across the full range, from IC-depth systems work to leading orgs of 50+, across fintech, healthtech, media, and proptech.
 
