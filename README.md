@@ -12,12 +12,12 @@ Full work history → [LinkedIn](https://www.linkedin.com/in/eqbridges)
 
 ## Scope and impact
 
-| Company | Industry | Highlight |
-|---|---|---|
-| Squarespace | Consumer / media software | Grew mobile org 2 → 50+ engineers; led Unfold acquisition integration & BioSites launch (2021 Super Bowl ad, cited in S-1) |
-| GreenLite | Proptech / construction tech | Built agentic AI plan-review system (15 → 300+ reviews/mo); led Terraform/IaC migration; grew org 3 → 11 |
-| Aetion | Healthtech | Led core platform team; Spark/Databricks migration cut response time 80% on 200M+ patient datasets |
-| Citco Fund Services | Fintech | Re-architected derivatives pricing & risk/scenario engine |
+| Company | Highlight |
+|---|---|
+| Squarespace | Grew mobile org 2 → 50+ engineers; led Unfold acquisition integration & BioSites launch (2021 Super Bowl ad, cited in S-1) |
+| GreenLite | Built agentic AI plan-review system (15 → 300+ reviews/mo); led Terraform/IaC migration; grew org 3 → 11 |
+| Aetion | Led core platform team; Spark/Databricks migration cut response time 80% on 200M+ patient datasets |
+| Citco Fund Services | Re-architected derivatives pricing & risk/scenario engine |
 
 <details>
 <summary><b>Squarespace</b> · Consumer / media software</summary>
