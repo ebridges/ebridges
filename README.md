@@ -15,7 +15,7 @@ Full work history → [LinkedIn](https://www.linkedin.com/in/eqbridges)
 | Company | Highlight |
 |---|---|
 | Squarespace | Architected a shared React/React Native system powering the flagship mobile app (~70% logic reuse across web & mobile); led Unfold acquisition integration & BioSites launch (2021 Super Bowl ad, cited in S-1) |
-| GreenLite | Built agentic AI plan-review system (15 → 300+ reviews/mo); led Terraform/IaC migration; grew org 3 → 11 |
+| GreenLite | Built agentic AI construction planset review system (15 → 300+ reviews/mo); led Terraform/IaC migration; grew org 3 → 11 |
 | Aetion | Led core platform team; Spark/Databricks migration cut response time 80% on 200M+ patient datasets |
 | Citco Fund Services | Re-architected derivatives pricing & risk/scenario engine |
 
