@@ -14,7 +14,7 @@ Full work history → [LinkedIn](https://www.linkedin.com/in/eqbridges)
 
 | Company | Highlight |
 |---|---|
-| Squarespace | Grew mobile org 2 → 50+ engineers; led Unfold acquisition integration & BioSites launch (2021 Super Bowl ad, cited in S-1) |
+| Squarespace | Architected a shared React/React Native system powering the flagship mobile app (~70% logic reuse across web & mobile); led Unfold acquisition integration & BioSites launch (2021 Super Bowl ad, cited in S-1) |
 | GreenLite | Built agentic AI plan-review system (15 → 300+ reviews/mo); led Terraform/IaC migration; grew org 3 → 11 |
 | Aetion | Led core platform team; Spark/Databricks migration cut response time 80% on 200M+ patient datasets |
 | Citco Fund Services | Re-architected derivatives pricing & risk/scenario engine |
@@ -25,9 +25,10 @@ Full work history → [LinkedIn](https://www.linkedin.com/in/eqbridges)
 <summary><b>Squarespace</b> · Consumer / media software</summary>
 <br>
 
-- Grew a mobile engineering org from 2 people to 50+, globally distributed, shipping 10+ apps
-- Led integration of the Unfold acquisition (5-6M MAU), scaling that team from 7 to 20+ engineers and shipping BioSites — featured in Squarespace's 2021 Super Bowl ad and cited 25x in the company's S-1
-- Led the org's response to an App Store-wide ban over in-app-purchase compliance, shipping a compliant rebuild across all three apps within a year with zero team attrition
+- Owned the architecture decision for how the flagship mobile app (iOS/Android) shared content-editing business logic with the web CMS: evaluated hybrid webview, fully-native, and shared-component approaches, and built a shared React/React Native component system achieving ~70% business-logic reuse across web and mobile
+- Solved the hard technical problems that came with it — a native↔JS navigation stack extending React Native internals, a single-JS-context bridge for multiple concurrent component instances, and an Axios/Fetch networking polyfill onto the native layer — work presented externally at Chain React
+- Led integration of the Unfold acquisition (5-6M MAU) and shipped BioSites — featured in Squarespace's 2021 Super Bowl ad and cited 25x in the company's S-1
+- Led the response to an App Store-wide ban over in-app-purchase compliance, shipping a compliant rebuild across all three apps within a year with zero team attrition
 
 </details>
 
